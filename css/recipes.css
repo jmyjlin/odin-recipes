@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family:'Times New Roman', Times, serif;
+  color: rgb(211, 75, 75);
+}
+
+img {
+  border: 2px solid black;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+.ingredient {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#description-header {
+  background-color: rgb(85, 15, 15);
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#ingredients-header {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.step {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#step-header {
+  font-family: Arial, Helvetica, sans-serif;
+}
