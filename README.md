@@ -8,3 +8,4 @@ This website demonstrates the following skills:
 - Images
 - Headings
 - Paragraphs
+- Command Line
